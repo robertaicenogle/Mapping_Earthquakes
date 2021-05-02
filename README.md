@@ -14,13 +14,13 @@ This project involves the use of HTML/CSS, JavaScript, Visual Studio. Earthquake
 
 
 ### Deliverable 1: Add Tectonic Plate Data
-
+![](map1.PNG)
 
 
 ### Deliverable 2: Add Major Earthquake Data
-
+![](map2.PNG)
 
 
 ### Deliverable 3: Add an Additional Map
-
+![](map3.PNG)
 
